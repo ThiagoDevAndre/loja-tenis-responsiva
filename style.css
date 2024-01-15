@@ -166,8 +166,8 @@ footer a{
     }
 
     .grid{
-        display: block;
-        text-align: center;
+        display: grid;
+        grid-template-columns: repeat(2,48.5%);
     }
 
     .grid article{
