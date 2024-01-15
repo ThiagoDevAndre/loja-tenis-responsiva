@@ -4,6 +4,7 @@
     --font-principal: 'Roboto', sans-serif;
 }
 
+
 *{
     margin: 0;
     padding: 0;
@@ -146,6 +147,7 @@ footer a{
     
     .sobre-a-loja img{
         width: 100%;
+        margin: 0px;
     }
 
     .sobre-a-loja {
@@ -181,6 +183,7 @@ footer a{
     
     .sobre-a-loja img{
         width: 100%;
+        margin: 0px;
     }
 
     .sobre-a-loja {
@@ -190,17 +193,20 @@ footer a{
 
     .sobre-p{
         margin: 10% auto;
+        padding: 0px 10px;
     }
 
 
     .produtos h2{
         padding-top: 0px;
         margin: 0px 0px 20px 0px;
+        
     }
 
     .grid{
         display: block;
         text-align: center;
+        padding: 20px;
     }
 
     .grid article{
